@@ -1,6 +1,8 @@
 ### SGkgdGhlcmUsIEknbSBMdSDwn6aK
 ![My Skills](https://skillicons.dev/icons?i=py,js,nim,bash,linux,github)
 
+https://tryhackme-badges.s3.amazonaws.com/d0093ef1.png
+
 ![](https://img.shields.io/badge/S-I-blueviolet)![](https://img.shields.io/badge/M-P-blueviolet)![](https://img.shields.io/badge/L-Y-blueviolet)![](https://img.shields.io/badge/L-U-blueviolet)<br>
 ![PERFECTLY Chaotic](https://img.shields.io/badge/PERFECTLY-CHAOTIC-blueviolet)
 
