@@ -8,6 +8,7 @@
 
 
 **Currently obsessed with [NiceGUI](https://nicegui.io)**:
+- [NiceGUI Certificate Authentication](https://github.com/simplylu/nicegui-certificate-authentication)
 - [NiceGUI GitHub OAuth Login](https://github.com/simplylu/NiceGitHubLogin)
 - [NiceGUI Video Player](https://github.com/simplylu/nicegui-video-player)
 - [NiceGUI Audio Player](https://github.com/simplylu/nicegui-audio-player)
