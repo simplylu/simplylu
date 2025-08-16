@@ -15,3 +15,4 @@
 - [NiceGUI hCaptcha Authentication](https://github.com/simplylu/nicegui-hcaptcha-authentication)
 - [NiceGUI Blog](https://github.com/simplylu/nicegui-blog)
 - [NiceGUI Avatar Generator](https://github.com/simplylu/nicegui-avatar-generator)
+- [NiceGUI Azure SSO Login](https://github.com/simplylu/nicegui-azure-sso-login/)
